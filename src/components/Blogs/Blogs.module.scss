@@ -1,0 +1,15 @@
+.scrollWindow{
+  display: flex;
+  justify-content: center;
+  overflow: scroll;
+  height: 900px;
+  background-color: rgb(255, 255, 255);
+  .itemBlog{
+    color: black;
+    max-width: 500px;
+    margin: 15px;
+    padding: 10px 15px;
+    border: 2px solid black;
+    border-radius: 8px;
+  }
+}

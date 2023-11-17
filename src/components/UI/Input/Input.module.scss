@@ -1,0 +1,13 @@
+.Input{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial,
+  sans-serif;
+  font-size: 18px;
+  color: white;
+  padding: 10px 15px;
+  background-color: transparent;
+  border: 2px solid white;
+  border-radius: 8px;
+  &::placeholder{
+    color: white;
+  }
+}

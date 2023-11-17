@@ -1,0 +1,7 @@
+{
+  "blog": [
+    { "id": 0, "user": "William", "body": "You need to eat today" },
+    { "id": 1, "user": "William", "body": "Clean the room" },
+    { "id": 2, "user": "William", "body": "To wash the dishes" }
+  ]
+}
